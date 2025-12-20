@@ -14,6 +14,10 @@
 @import "minimal-mistakes/vendor/susy/susy";
 @import "minimal-mistakes/mixins";
 
+/* Custom */
+@import "custom";
+
+
 /* Core CSS */
 @import "minimal-mistakes/reset";
 @import "minimal-mistakes/base";
@@ -39,5 +43,3 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-/* Custom */
-@import "custom"

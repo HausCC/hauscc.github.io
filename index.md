@@ -196,6 +196,18 @@ feature_row:
 
 ---
 
+<style>
+html .page__hero--overlay {
+  /* On this page do a tiled header */
+  background-position: top;
+}
+
+@keyframes marq {
+  from { background-position: 0px; }
+  from { background-position: 100px; }
+}
+</style>
+
 <h2 class="archive__subtitle">Upcoming events!</h2>
 
 2026 is upon us! Look for us at our yearly events: May Day, SOAK\*, Solstice, Critical, and more.
