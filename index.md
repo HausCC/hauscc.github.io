@@ -2,11 +2,19 @@
 layout: single
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: "https://static.cloudygo.com/static/Misc/Header.jpg"
+  overlay_color: "#A0A"
+  overlay_image: "https://static.cloudygo.com/static/Misc/HCC_banner.jpg"
 excerpt: Celebratory Art!
 
 feature_row:
+  - title: "New Name"
+    alt: "New Concept, New Name"
+    url: "new-name"
+    image_path: "https://static.cloudygo.com/static/Misc/HCC.png"
+    excerpt: "New Concept, New Name"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+
   - title: "Electric Sky"
     alt: "Electric Sky Art Camp"
     url: "art/events/2025-electric-sky"
@@ -190,7 +198,7 @@ feature_row:
 
 <h2 class="archive__subtitle">Upcoming events!</h2>
 
-2026 is upon us! Look for us at our yearly events: May Day, SOAK\*, Critical, Solstice and more.
+2026 is upon us! Look for us at our yearly events: May Day, SOAK\*, Solstice, Critical, and more.
 
 
 <h3 class="archive__subtitle">HCC Write-ups</h3>

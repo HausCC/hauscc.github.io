@@ -63,7 +63,7 @@ Haus CC is an art collective in Seattle. We regularly participate in Fremont Art
     <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
   </div>
   <div markdown="span">
-    **Zhigalka** - Produces the LEDs, frames, and other supporting infrastructure for our art. They love flow and making their own [props](/propmania).
+    **Zhigalka** - LEDs, PCBs, Resin, Acrylic, CNC, Oh My!. A hardware hacker who loves to tinker with making things.
   </div>
 </div>
 
