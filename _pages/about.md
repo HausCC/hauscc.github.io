@@ -3,8 +3,8 @@ permalink: /about/
 title: "About Us"
 layout: single
 header:
-  overlay_image: "https://static.cloudygo.com/static/Misc/Haus%20Anima%20Fractal_256.jpg"
-  teaser: "https://static.cloudygo.com/static/Misc/Haus%20Anima%20Fractal_256.jpg"
+  overlay_image: "https://static.cloudygo.com/static/Misc/HCC.png"
+  teaser: "https://static.cloudygo.com/static/Misc/HCC.png"
 
 ---
 
@@ -39,17 +39,15 @@ html .page__hero--overlay {
 
 {% comment %}
 <div>
-  <img src="{{site.teaser}}" alt="Haus Anima" />
-  <img src="{{site.teaser}}" alt="Haus Anima" class="portrait"/>
-  <img src="{{site.teaser}}" alt="Haus Anima" />
-  <img src="{{site.teaser}}" alt="Haus Anima" class="portrait"/>
-  <img src="{{site.teaser}}" alt="Haus Anima" />
+  <img src="{{site.teaser}}" alt="HCC" />
+  <img src="{{site.teaser}}" alt="HCC" class="portrait"/>
+  <img src="{{site.teaser}}" alt="HCC" />
+  <img src="{{site.teaser}}" alt="HCC" class="portrait"/>
+  <img src="{{site.teaser}}" alt="HCC" />
 </div>
 {% endcomment %}
 
-Haus Anima is an art collective in Seattle, Washington centered on interactive art. We regularly participate in Regional Burning Man event, Fremont Art Council events (Solstice Parade, May Day, ...), and a number of other local events. We host a few performance events under the Haus Anima Presents label and several unofficial community spaces.
-
-Our collective includes:
+Haus CC is an art collective in Seattle. We regularly participate in Fremont Art Council events (Solstice Parade, May Day, ...) and Regional Burning Man Events.
 
 <div class="row" style="display: flex; align-items: center; margin: 1em 0;">
   <div style="margin-right: 1em">
@@ -78,29 +76,7 @@ Our collective includes:
   </div>
 </div>
 
-<div class="row" style="display: flex; align-items: center; margin: 1em 0;">
-  <div style="margin-right: 1em">
-    <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
-  </div>
-  <div markdown="span">
-    **Li☿️ac** - An alchemist hailing from the deep forests for the Pacific Northwest, Li☿️ac is a student of the cosmos, a musician devoted to the transformative power of sound, and a brewer of mind-bending elixers.
-  </div>
-</div>
-
-<div class="row" style="display: flex; align-items: center; margin: 1em 0;">
-  <div style="margin-right: 1em">
-    <img class="portrait" src="https://static.cloudygo.com/static/Misc/skipper_profile.jpg" alt="Skipper" />
-  </div>
-  <div markdown="span">
-    **Skipper** - When they aren't leading party clowns on the high seas, Skipper creates fabulous costumes and sets the atmosphere on the ukulele.
-  </div>
-</div>
-
-Interested in collaborating? We're really excited about working on art of many kinds.  Feel free to reach out to us at [lilac@anima.haus](mailto:lilac@anima.haus?subject=Let's Collaborate!)
-
 <div class="portrait-row">
-  <img class="portrait" src="https://static.cloudygo.com/static/Misc/skipper_profile.jpg" alt="Skipper" />
-  <img class="portrait" src="https://static.cloudygo.com/static/Misc/lilac_profile.jpg" alt="Lilac" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/kalesta_profile.jpg" alt="Kalesta" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/hummingbird_profile.jpg" alt="Zhigalka" />
   <img class="portrait" src="https://static.cloudygo.com/static/Misc/ribbit_profile.jpg" alt="Ribbit" />

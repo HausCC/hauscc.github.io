@@ -208,8 +208,7 @@ The last piece of the River was Googly Eye Eye. Zhigalka built Googly Eye Eye us
 </div>
 </figure>
 
-The River was filled with Lilac's original soundtrack, a piece called "The River Styx", it will eventually be uploaded to their
-<a href="https://soundcloud.com/alex-perusse">soundcloud</a>.
+The River was filled with an original soundtrack by Lilac.
 
 At the event folks left Charon many offerings, we plan to integrate these offerings into our next art piece, Hades, at Critical.
 

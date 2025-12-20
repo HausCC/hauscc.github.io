@@ -2,13 +2,9 @@
 permalink: /snail-cat/
 title: "Snail-Cat"
 description: |
-    Haus Anima's Favorite Cat
-    <br>
-    Snail!
+    An actually factual cat
 layout: gallery
-tags: >
-    Main
-    Pets
+tags:
 
 header:
     overlay_image: https://static.cloudygo.com/static/Snail/Snail on couch.jpg

@@ -20,14 +20,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anima"
+title                    : "Haus CC"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lilac"
-description              : "An amazing website."
-url                      : "https://mrklees.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Haus CC"
+description              : "Art blog for Haus CC"
+url                      : "https://hauscc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mrklees/mrklees.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hauscc/hauscc.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "https://static.cloudygo.com/static/Misc/Haus%20Anima%20Fractal_256.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lilac"
+  name             : "Haus CC"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am, as your are"
-  location         : "Somewhere, Seattle, WA, Cosmos"
+  bio              : "Art in the Dark"
+  location         : "PNW"
   email            :
   links:
     - label: "Email"

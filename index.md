@@ -4,7 +4,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: "https://static.cloudygo.com/static/Misc/Header.jpg"
-excerpt: Exploring beauty through art and sound
+excerpt: Celebratory Art!
 
 feature_row:
   - title: "Electric Sky"
@@ -64,16 +64,6 @@ feature_row:
     btn_label: "Summary!"
     btn_class: "btn--info"
 
-  - title: "Burning Man 2023 Recap!"
-    alt: "Skipper's reflection on Burning Man 2023"
-    url: "events/BM-recap"
-    image_path: "https://static.cloudygo.com/static/2023-BM-recap/Friendship.jpg"
-    excerpt: |
-      Skipper's reflection on Burning Man
-    btn_label: "Summary!"
-    btn_class: "btn--info"
-
-
   - title: "Dahlia Dreams!"
     alt: "Dahlia Dreams at FAC Gala 2024"
     url: "art/events/FAC-gala/"
@@ -83,6 +73,7 @@ feature_row:
     btn_label: "Giant Flowers!"
     btn_class: "btn--info"
 
+
   - title: "Seacompression 2023"
     alt: "Seacompression 2023"
     url: "/events/2023-seacompression"
@@ -91,7 +82,6 @@ feature_row:
       Death, Ears, Curio, Sound, and More!
     btn_label: "So Much New Art!"
     btn_class: "btn--info"
-
 
   - title: "POI"
     alt: "Making our own poi!"
@@ -200,10 +190,10 @@ feature_row:
 
 <h2 class="archive__subtitle">Upcoming events!</h2>
 
-2024 is upon us! Look for us at May Day, SOAK*, Critical, Solstice and more.
+2026 is upon us! Look for us at our yearly events: May Day, SOAK\*, Critical, Solstice and more.
 
 
-<h3 class="archive__subtitle">Haus Anima Write-ups</h3>
+<h3 class="archive__subtitle">HCC Write-ups</h3>
 <div class="index-feature-row">
   {% include feature_row %}
 </div>

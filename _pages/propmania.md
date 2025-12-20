@@ -9,7 +9,7 @@ header:
   teaser: https://static.cloudygo.com/static/2023-FlowToys/header.jpg
 ---
 
-This is a summary of some of the flow props Z and Ribbit have made at Haus Anima.
+This is a summary of some of the flow props Z and Ribbit have made.
 
 We enjoy making and sharing our props with other people at festivals. It's nice for new flow folks to be able to try a bunch of different props searching for one you enjoy.
 
