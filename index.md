@@ -7,6 +7,14 @@ header:
 excerpt: Celebratory Art!
 
 feature_row:
+  - title: "Fall Solstice - Luminata"
+    alt: "Fire Spinning at Greenlake"
+    url: "events/2025-luminata"
+    image_path: "https://static.cloudygo.com/static/2025-luminata/friends_black.jpg"
+    excerpt: "Fall Solstice - Luminata"
+    btn_label: "Fire Spinning at Greenlake"
+    btn_class: "btn--info"
+
   - title: "New Name"
     alt: "New Concept, New Name"
     url: "new-name"
