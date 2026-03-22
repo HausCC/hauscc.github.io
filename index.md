@@ -10,7 +10,7 @@ feature_row:
   - title: "New Name"
     alt: "New Concept, New Name"
     url: "new-name"
-    image_path: "https://static.cloudygo.com/static/Misc/HCC.png"
+    image_path: "https://static.cloudygo.com/static/Misc/ArtHaus.png"
     excerpt: "New Concept, New Name"
     btn_label: "Read More"
     btn_class: "btn--info"

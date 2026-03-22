@@ -1,4 +1,4 @@
-# Haus CC Website
+# Art Haus Website
 
 Steps for new post
 
