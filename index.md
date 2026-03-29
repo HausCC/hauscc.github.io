@@ -7,6 +7,14 @@ header:
 excerpt: Celebratory Art!
 
 feature_row:
+  - title: "ELECTRIC SEA"
+    alt: "Art and Tech Meetup in Seattle"
+    url: "art/events/2026-electric-sea"
+    image_path: "https://static.cloudygo.com/static/2026-ElectricSEA/Tristan%20and%20Z.jpg"
+    excerpt: 'Work on the "Do Nothing Machine"'
+    btn_label: "Art & tech meetup in Seattle"
+    btn_class: "btn--info"
+
   - title: "Fall Solstice - Luminata"
     alt: "Fire Spinning at Greenlake"
     url: "events/2025-luminata"

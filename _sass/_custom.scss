@@ -21,14 +21,14 @@ figure {
   &.thin {
     @include breakpoint($large) {
       width: 75%;
-      margin: auto;
+      margin: 2em auto;
     }
   }
 
   &.halfsingle {
     @include breakpoint($large) {
       width: 50%;
-      margin: auto;
+      margin: 2em auto;
     }
   }
 
