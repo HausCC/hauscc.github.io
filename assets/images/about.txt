@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Tuffy
-- Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7rxzF4xmyfYe.ttf
-- Font License: undefined)
