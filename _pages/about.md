@@ -3,8 +3,8 @@ permalink: /about/
 title: "About Us"
 layout: single
 header:
-  overlay_image: "https://static.cloudygo.com/static/Misc/HCC.png"
-  teaser: "https://static.cloudygo.com/static/Misc/HCC.png"
+  overlay_image: "https://static.cloudygo.com/static/Misc/ArtHaus.png"
+  teaser: "https://static.cloudygo.com/static/Misc/ArtHaus.png"
 
 ---
 
@@ -39,11 +39,11 @@ html .page__hero--overlay {
 
 {% comment %}
 <div>
-  <img src="{{site.teaser}}" alt="HCC" />
-  <img src="{{site.teaser}}" alt="HCC" class="portrait"/>
-  <img src="{{site.teaser}}" alt="HCC" />
-  <img src="{{site.teaser}}" alt="HCC" class="portrait"/>
-  <img src="{{site.teaser}}" alt="HCC" />
+  <img src="{{site.teaser}}" alt="Art Haus" />
+  <img src="{{site.teaser}}" alt="Art Haus" class="portrait"/>
+  <img src="{{site.teaser}}" alt="Art Haus" />
+  <img src="{{site.teaser}}" alt="Art Haus" class="portrait"/>
+  <img src="{{site.teaser}}" alt="Art Haus" />
 </div>
 {% endcomment %}
 

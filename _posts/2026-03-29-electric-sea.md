@@ -22,14 +22,16 @@ header:
 Ribbit, Seth, and Tristan spent the weekend at ELECTRIC SEA hacking on various projects.
 
 Ribbit worked on SOAK* art and made tentacles.
-Z worked on their "Do Nothing Machine" with help from Tristan and Andrew.
-Tristan also completed PCB layout and routing for a personal lighting project.
+
+Seth worked on their "Do Nothing Machine" with help from Tristan and Andrew.
+
+Tristan completed PCB layout and routing for a personal lighting project.
 
 ## Do Nothing Machine
 
-Z has wanted to build a useless machine similar for a while.
+Seth has wanted to build a useless machine inspired by the arm machine that reach out and reset a toggle switch.
 
-The goal of this No Nothing Machine is that the top platforms stays stationary while
+The goal of this Do Nothing Machine is that the top platforms stays stationary while
 two lift platforms, and later other mechanical lifts, do a great deal of moving around.
 
 <figure class="half" markdown="span">
@@ -37,7 +39,7 @@ two lift platforms, and later other mechanical lifts, do a great deal of moving 
 ![Tristan and Z](https://static.cloudygo.com/static/2026-ElectricSEA/Tristan%20and%20Z.jpg)
 </figure>
 
-After 12 hours of hacking with several false starts it the hardware and software "worked".
+After 12 hours of hacking with several false starts the hardware and software "worked".
 
 <figure class="thin" markdown="span">
 <video controls>

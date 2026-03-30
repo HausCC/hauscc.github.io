@@ -3,7 +3,7 @@ layout: single
 hidden: true
 header:
   overlay_color: "#A0A"
-  overlay_image: "https://static.cloudygo.com/static/Misc/HCC_banner.jpg"
+  overlay_image: "https://static.cloudygo.com/static/Misc/Art_Haus_banner.jpg"
 excerpt: Celebratory Art!
 
 feature_row:
@@ -224,12 +224,7 @@ html .page__hero--overlay {
 }
 </style>
 
-<h2 class="archive__subtitle">Upcoming events!</h2>
 
-2026 is upon us! Look for us at our yearly events: May Day, SOAK\*, Solstice, Critical, and more.
-
-
-<h3 class="archive__subtitle">HCC Write-ups</h3>
 <div class="index-feature-row">
   {% include feature_row %}
 </div>
