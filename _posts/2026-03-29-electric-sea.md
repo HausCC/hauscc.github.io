@@ -29,7 +29,7 @@ Tristan completed PCB layout and routing for a personal lighting project.
 
 ## Do Nothing Machine
 
-Seth has wanted to build a useless machine inspired by the arm machine that reach out and reset a toggle switch.
+Seth has wanted to build a useless machine inspired by the arm machines that reach out and reset a toggle switch.
 
 The goal of this Do Nothing Machine is that the top platforms stays stationary while
 two lift platforms, and later other mechanical lifts, do a great deal of moving around.
