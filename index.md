@@ -7,6 +7,14 @@ header:
 excerpt: Celebratory Art!
 
 feature_row:
+  - title: "Custom Bike Colors"
+    alt: "Making my bike more me"
+    url: "art/bike"
+    image_path: "https://static.cloudygo.com/static/2026-Bike/PS4%20tight.jpg"
+    excerpt: "Making my bike more me"
+    btn_label: "Process and photos"
+    btn_class: "btn--info"
+
   - title: "ELECTRIC SEA"
     alt: "Art and Tech Meetup in Seattle"
     url: "art/events/2026-electric-sea"
