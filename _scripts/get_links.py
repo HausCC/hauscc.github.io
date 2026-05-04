@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
+import math
 import os
 import sys
 import urllib.parse
+
 import cv2
 
 BASE_URL = "https://static.cloudygo.com/static/"
@@ -34,6 +36,10 @@ def make_links(url_path, photo_dir, paths):
                     w = int(vid.get(cv2.CAP_PROP_FRAME_WIDTH))
 
                 if h and w:
+                    g = math.gcd(h, w)
+                    if g > 1:
+                        h //= g
+                        w //= g
                     flex_style = f"style=\"flex: calc({w}/{h}); margin-right: 0.75em;\""
 
             if ext in (".png", ".jpg", ".jpeg"):
