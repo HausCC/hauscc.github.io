@@ -7,13 +7,13 @@ header:
 excerpt: Celebratory Art!
 
 feature_row:
-#  - title: "May Day"
-#    alt: "2026 May Day with FAC"
-#    url: "events/2026-May-Day"
-#    image_path: "https://static.cloudygo.com/static/2026-May-Day/6%20May%20Pole%20Mostly%20done.jpg"
-#    excerpt: "Friends, Food, and Fun celebrating May Day"
-#    btn_label: "Friends, Food, and Fun celebrating May Day"
-#    btn_class: "btn--info"
+  - title: "May Day"
+    alt: "2026 May Day with FAC"
+    url: "events/2026-May-Day"
+    image_path: "https://static.cloudygo.com/static/2026-May-Day/6%20May%20Pole%20Mostly%20done.jpg"
+    excerpt: "Friends, Food, and Fun celebrating May Day"
+    btn_label: "Friends, Food, and Fun celebrating May Day"
+    btn_class: "btn--info"
 
   - title: "Custom Bike Colors"
     alt: "Making my bike more me"
