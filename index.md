@@ -7,6 +7,14 @@ header:
 excerpt: Celebratory Art!
 
 feature_row:
+  - title: "Art Support at SOAK*"
+    alt: "2026 SOAK*"
+    url: "art/events/2026-soak"
+    image_path: "https://static.cloudygo.com/static/2026-SOAK/Lead.jpg"
+    excerpt: "Oregon's Regional"
+    btn_label: "Art in Oregon"
+    btn_class: "btn--info"
+
   - title: "May Day"
     alt: "2026 May Day with FAC"
     url: "events/2026-May-Day"
