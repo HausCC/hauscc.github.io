@@ -7,6 +7,14 @@ header:
 excerpt: Celebratory Art!
 
 feature_row:
+  - title: "More Blue Bike"
+    alt: "Blue rims for my blue bike"
+    url: "art/bike-part2"
+    image_path: "https://static.cloudygo.com/static/2026-Bike-v2/05%20Done.jpg"
+    excerpt: "Making more of my bike blue"
+    btn_label: "Photos"
+    btn_class: "btn--info"
+
   - title: "Art Support at SOAK*"
     alt: "2026 SOAK*"
     url: "art/events/2026-soak"
