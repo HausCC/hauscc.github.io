@@ -7,6 +7,14 @@ header:
 excerpt: Celebratory Art!
 
 feature_row:
+  - title: "Tiny Art Gallery"
+    alt: "Building a tiny public art gallery"
+    url: "tiny-art-gallery"
+    image_path: "https://static.cloudygo.com/static/2026-Tiny-Art-Gallery/Banner.jpg"
+    excerpt: "Art Gallery!"
+    btn_label: "Art Gallery!"
+    btn_class: "btn--info"
+
   - title: "More Blue Bike"
     alt: "Blue rims for my blue bike"
     url: "art/bike-part2"
